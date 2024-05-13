@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Home</div>;
+  return <section className="w-full h-screen relative"></section>;
 }
